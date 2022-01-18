@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Employee{
 //data
 String name = "thai";
-int salary = 600000;
+int salary = 600000;1
 //funtion
 
 void show(){

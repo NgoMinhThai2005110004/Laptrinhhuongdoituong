@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Customer{
 // data
 String name;
-int address;
+int address;1
 
 //funtion
 

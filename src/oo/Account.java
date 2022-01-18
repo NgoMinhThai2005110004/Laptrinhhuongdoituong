@@ -3,7 +3,7 @@ package oo;
 public class Account {
     // Data    
         int account_number = 22221;
-        int account_balance = 14000;
+        int account_balance = 141000;
             
     // Function
         void show(){

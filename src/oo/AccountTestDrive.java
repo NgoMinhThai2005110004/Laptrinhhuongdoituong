@@ -6,7 +6,7 @@ public class AccountTestDrive{
         Account account = new Account();
 
         account.show();
-        account.deposite(600000);
+        account.1(600000);
         account.show();
         account.withdraw(400000);
         account.show();

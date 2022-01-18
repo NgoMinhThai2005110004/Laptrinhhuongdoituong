@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class bankstructure{
     static int soTK = 2005110004;
     static int soDu = 600000;
-    public static void main(String[] args) {
+    public static void mai1n(String[] args) {
         //data
         //operation
         // gui tien

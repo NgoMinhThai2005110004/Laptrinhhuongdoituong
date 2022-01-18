@@ -2,7 +2,7 @@ package oo;
 
 public class EmployeeTestDrive{
     public static void main(String[] args) {
-        Employee employee = new Employee();
+        Employee e1mployee = new Employee();
 
         employee.show();
     }
